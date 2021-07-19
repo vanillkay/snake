@@ -1,0 +1,6 @@
+
+;javascript:S28141"'data' is already defined.(æÆı¼ûÿÿÿÿ
+ujavascript:S37767"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(§ã®ûÿÿÿÿ
+Wjavascript:S38007"6Refactor this function to always return the same type.(§ã®ûÿÿÿÿ
+Rjavascript:S3972R"7Move this "if" to a new line or add the missing "else".(Ø®Ö4
+–javascript:S2681R"{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(Ø®Ö4
